@@ -1,0 +1,8 @@
+{
+  "id": "nametag-a2h",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
